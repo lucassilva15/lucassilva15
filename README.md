@@ -1,6 +1,6 @@
 # Lucas Silva 👨‍💻
 
-<img align='right' src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/importa.gif">
+<img align='right' src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/demonstra%C3%A7%C3%A3o.gif">
 <p><em>Student Computer Enginner at University of Taquari Valley</br></em></p>
 
 [![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003843147027)
