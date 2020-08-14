@@ -14,7 +14,6 @@
 const lucassilva15 = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Java'],
   favoriteLanguage: ['Java', 'Javascript'],
-  tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Docker'],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Docker']
 }
 ```
