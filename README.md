@@ -17,3 +17,6 @@ const lucassilva15 = {
   tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Docker', 'Magento', 'AWS', 'Azure']
 }
 ```
+
+  ![Snake animation](https://github.com/lucassilva15/lucassilva15/blob/output/github-contribution-grid-snake.svg)
+
